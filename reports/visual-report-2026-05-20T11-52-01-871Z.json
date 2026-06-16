@@ -1,0 +1,89 @@
+[
+  {
+    "ai_provider": "gemini",
+    "match_key": "/",
+    "website_a_url": "https://ouj-media.pages.dev/",
+    "website_b_url": "https://www.oujmedia.ae/",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T11-52-01-871Z/matched___2026-05-20T11-52-01-871Z_eadebd7023.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T11-52-01-871Z/matched___2026-05-20T11-52-01-871Z_eadebd7023.png",
+    "verdict": "changes_visible",
+    "human_visible_changes": true,
+    "confidence": 1,
+    "summary": "The statistics for 'client rating' and 'projects' have changed in the middle section of the page.",
+    "diff_highlight_rel": "diffs-2026-05-20T11-52-01-871Z/diff___2026-05-20T11-52-01-871Z_bdfe2d3226-highlight.png",
+    "diff_map_rel": "diffs-2026-05-20T11-52-01-871Z/diff___2026-05-20T11-52-01-871Z_bdfe2d3226-map.png",
+    "diff_pixel_count": 98804
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/services",
+    "website_a_url": "https://ouj-media.pages.dev/services",
+    "website_b_url": "https://www.oujmedia.ae/services",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T11-52-01-871Z/matched__services_2026-05-20T11-52-01-871Z_0a6a074fa8.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T11-52-01-871Z/matched__services_2026-05-20T11-52-01-871Z_0a6a074fa8.png",
+    "verdict": "perfect",
+    "human_visible_changes": false,
+    "confidence": 1,
+    "summary": "The two screenshots are visually identical, with no discernible differences in content, layout, or styling."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/pricing",
+    "website_a_url": "https://ouj-media.pages.dev/pricing/",
+    "website_b_url": "https://www.oujmedia.ae/pricing/",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T11-52-01-871Z/matched__pricing_2026-05-20T11-52-01-871Z_e9ea23c24b.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T11-52-01-871Z/matched__pricing_2026-05-20T11-52-01-871Z_e9ea23c24b.png",
+    "verdict": "perfect",
+    "human_visible_changes": false,
+    "confidence": 1,
+    "summary": "The two screenshots are visually identical, with no discernible differences in content, layout, or styling."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/about",
+    "website_a_url": "https://ouj-media.pages.dev/about/",
+    "website_b_url": "https://www.oujmedia.ae/about/",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T11-52-01-871Z/matched__about_2026-05-20T11-52-01-871Z_764b70dd82.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T11-52-01-871Z/matched__about_2026-05-20T11-52-01-871Z_764b70dd82.png",
+    "verdict": "perfect",
+    "human_visible_changes": false,
+    "confidence": 1,
+    "summary": "The two screenshots are visually identical with no discernible differences."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/contact",
+    "website_a_url": "https://ouj-media.pages.dev/contact/",
+    "website_b_url": "https://www.oujmedia.ae/contact/",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T11-52-01-871Z/matched__contact_2026-05-20T11-52-01-871Z_a254d5f34c.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T11-52-01-871Z/matched__contact_2026-05-20T11-52-01-871Z_a254d5f34c.png",
+    "verdict": "perfect",
+    "human_visible_changes": false,
+    "confidence": 1,
+    "summary": "The two screenshots are visually identical with no discernible differences."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/terms-service",
+    "website_a_url": "https://ouj-media.pages.dev/terms-service/",
+    "website_b_url": "https://www.oujmedia.ae/terms-service/",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T11-52-01-871Z/matched__terms-service_2026-05-20T11-52-01-871Z_fa3d1971f7.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T11-52-01-871Z/matched__terms-service_2026-05-20T11-52-01-871Z_fa3d1971f7.png",
+    "verdict": "perfect",
+    "human_visible_changes": false,
+    "confidence": 1,
+    "summary": "The two screenshots are visually identical."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/terms-conditions",
+    "website_a_url": "https://ouj-media.pages.dev/terms-conditions/",
+    "website_b_url": "https://www.oujmedia.ae/terms-conditions/",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T11-52-01-871Z/matched__terms-conditions_2026-05-20T11-52-01-871Z_9dcb7d9300.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T11-52-01-871Z/matched__terms-conditions_2026-05-20T11-52-01-871Z_9dcb7d9300.png",
+    "verdict": "perfect",
+    "human_visible_changes": false,
+    "confidence": 1,
+    "summary": "The two screenshots are visually identical, with no discernible differences in layout, content, or styling."
+  }
+]

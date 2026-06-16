@@ -1,0 +1,8 @@
+ai_provider,match_key,website_a_url,website_b_url,verdict,human_visible_changes,confidence,summary
+"gemini","/","https://ouj-media.pages.dev/","https://www.oujmedia.ae/","changes_visible","true","1","The statistics section shows different numbers for client retention, management, projects, and continents."
+"gemini","/services","https://ouj-media.pages.dev/services","https://www.oujmedia.ae/services","perfect","false","1","The two screenshots are visually identical with no discernible differences in layout, content, or styling."
+"gemini","/pricing","https://ouj-media.pages.dev/pricing/","https://www.oujmedia.ae/pricing/","perfect","false","1","The two screenshots are visually identical with no discernible changes in content, layout, or styling."
+"gemini","/about","https://ouj-media.pages.dev/about/","https://www.oujmedia.ae/about/","perfect","false","1","The two screenshots are visually identical with no discernible differences."
+"gemini","/contact","https://ouj-media.pages.dev/contact/","https://www.oujmedia.ae/contact/","perfect","false","1","The two screenshots are visually identical, with no discernible differences in layout, content, or styling."
+"gemini","/terms-service","https://ouj-media.pages.dev/terms-service/","https://www.oujmedia.ae/terms-service/","perfect","false","1","The two screenshots are visually identical in every aspect, from the header and content to the footer."
+"gemini","/terms-conditions","https://ouj-media.pages.dev/terms-conditions/","https://www.oujmedia.ae/terms-conditions/","perfect","false","1","The two screenshots are visually identical, with no discernible differences in content, layout, or styling."

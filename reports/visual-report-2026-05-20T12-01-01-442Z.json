@@ -1,0 +1,442 @@
+[
+  {
+    "ai_provider": "gemini",
+    "match_key": "/",
+    "website_a_url": "https://ouj-media.pages.dev/",
+    "website_b_url": "https://oscarluxury.com/",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T12-01-01-442Z/matched___2026-05-20T12-01-01-442Z_92cd402500.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T12-01-01-442Z/matched___2026-05-20T12-01-01-442Z_92cd402500.png",
+    "verdict": "changes_visible",
+    "human_visible_changes": true,
+    "confidence": 1,
+    "summary": "The two websites are for completely different businesses with entirely different content, branding, layouts, and color schemes. One is a digital marketing agency, and the other is a luxury car dealership.",
+    "diff_highlight_rel": "diffs-2026-05-20T12-01-01-442Z/diff___2026-05-20T12-01-01-442Z_3375f61c9a-highlight.png",
+    "diff_map_rel": "diffs-2026-05-20T12-01-01-442Z/diff___2026-05-20T12-01-01-442Z_3375f61c9a-map.png",
+    "diff_pixel_count": 4981071
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/services",
+    "website_a_url": "https://ouj-media.pages.dev/services",
+    "website_b_url": "https://oscarluxury.com/services/",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-20T12-01-01-442Z/matched__services_2026-05-20T12-01-01-442Z_31411093a3.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-20T12-01-01-442Z/matched__services_2026-05-20T12-01-01-442Z_31411093a3.png",
+    "verdict": "changes_visible",
+    "human_visible_changes": true,
+    "confidence": 1,
+    "summary": "The two websites are for entirely different businesses, offering completely different services (digital marketing vs. automotive care) with distinct layouts, branding, and content.",
+    "diff_highlight_rel": "diffs-2026-05-20T12-01-01-442Z/diff__services_2026-05-20T12-01-01-442Z_35a6c6e0cc-highlight.png",
+    "diff_map_rel": "diffs-2026-05-20T12-01-01-442Z/diff__services_2026-05-20T12-01-01-442Z_35a6c6e0cc-map.png",
+    "diff_pixel_count": 4980132
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/pricing",
+    "website_a_url": "https://ouj-media.pages.dev/pricing/",
+    "website_b_url": null,
+    "verdict": "only_in_website_a",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website B with the same path and query; screenshot saved for A only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/about",
+    "website_a_url": "https://ouj-media.pages.dev/about/",
+    "website_b_url": null,
+    "verdict": "only_in_website_a",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website B with the same path and query; screenshot saved for A only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/contact",
+    "website_a_url": "https://ouj-media.pages.dev/contact/",
+    "website_b_url": null,
+    "verdict": "only_in_website_a",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website B with the same path and query; screenshot saved for A only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/terms-service",
+    "website_a_url": "https://ouj-media.pages.dev/terms-service/",
+    "website_b_url": null,
+    "verdict": "only_in_website_a",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website B with the same path and query; screenshot saved for A only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/terms-conditions",
+    "website_a_url": "https://ouj-media.pages.dev/terms-conditions/",
+    "website_b_url": null,
+    "verdict": "only_in_website_a",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website B with the same path and query; screenshot saved for A only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/about-us",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/about-us/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/paint-protection-film",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/paint-protection-film/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/interior-detailing",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/interior-detailing/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ceramic-coating",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ceramic-coating/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/vinyl-wrapping",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/vinyl-wrapping/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/exterior-detailing",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/exterior-detailing/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/custom-body-kit",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/custom-body-kit/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/inventory",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/inventory/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/contact-us",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/contact-us/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad/range-rover-evoque-r-dynamic-se",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad/range-rover-evoque-r-dynamic-se/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad/mercedes-benz-a-class-amg-a-45",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad/mercedes-benz-a-class-amg-a-45/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad/bentley-bentayga-azure-v8-2023-alpine-green",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad/bentley-bentayga-azure-v8-2023-alpine-green/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad/bmw-m4-competition-xdrive-m-kit",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad/bmw-m4-competition-xdrive-m-kit/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad/land-rover-defender-525-v8-edition",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad/land-rover-defender-525-v8-edition/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad/mercedes-benz-gls-450-2",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad/mercedes-benz-gls-450-2/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad/mercedes-benz-cla-45-s-amg-4matic",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad/mercedes-benz-cla-45-s-amg-4matic/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad/lexus-lx600-f-sport",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad/lexus-lx600-f-sport/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/bmw",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/bmw/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/rolls-royce",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/rolls-royce/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/bentley",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/bentley/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/mercedes",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/mercedes/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/ferrari",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/ferrari/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/porsche",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/porsche/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/ford",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/ford/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/nissan",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/nissan/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/land-rover",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/land-rover/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/lamborghini",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/lamborghini/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/lexus",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/lexus/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ad_category/range-rover",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/ad_category/range-rover/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/sell-car",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/sell-car/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/trade-in",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/trade-in/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/privacy-policy",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/privacy-policy/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/terms-and-conditions",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/terms-and-conditions/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/blogs",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/blogs/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/showroom",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/showroom/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/faqs",
+    "website_a_url": null,
+    "website_b_url": "https://oscarluxury.com/faqs/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  }
+]

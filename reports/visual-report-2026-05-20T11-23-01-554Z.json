@@ -1,0 +1,72 @@
+[
+  {
+    "ai_provider": "gemini",
+    "match_key": "/",
+    "website_a_url": "https://ouj-media.pages.dev/",
+    "website_b_url": "https://www.oujmedia.ae/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "AI comparison failed: {\"error\":{\"code\":403,\"message\":\"Requests to this API generativelanguage.googleapis.com method google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent are blocked.\",\"s"
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/services",
+    "website_a_url": "https://ouj-media.pages.dev/services",
+    "website_b_url": "https://www.oujmedia.ae/services",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "AI comparison failed: {\"error\":{\"code\":403,\"message\":\"Requests to this API generativelanguage.googleapis.com method google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent are blocked.\",\"s"
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/pricing",
+    "website_a_url": "https://ouj-media.pages.dev/pricing/",
+    "website_b_url": "https://www.oujmedia.ae/pricing/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "AI comparison failed: {\"error\":{\"code\":403,\"message\":\"Gemini API has not been used in project 11066858378 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/g"
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/about",
+    "website_a_url": "https://ouj-media.pages.dev/about/",
+    "website_b_url": "https://www.oujmedia.ae/about/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "AI comparison failed: {\"error\":{\"code\":403,\"message\":\"Gemini API has not been used in project 11066858378 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/g"
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/contact",
+    "website_a_url": "https://ouj-media.pages.dev/contact/",
+    "website_b_url": "https://www.oujmedia.ae/contact/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "AI comparison failed: {\"error\":{\"code\":403,\"message\":\"Requests to this API generativelanguage.googleapis.com method google.ai.generativelanguage.v1beta.GenerativeService.GenerateContent are blocked.\",\"s"
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/terms-service",
+    "website_a_url": "https://ouj-media.pages.dev/terms-service/",
+    "website_b_url": "https://www.oujmedia.ae/terms-service/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "AI comparison failed: {\"error\":{\"code\":403,\"message\":\"Gemini API has not been used in project 11066858378 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/g"
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/terms-conditions",
+    "website_a_url": "https://ouj-media.pages.dev/terms-conditions/",
+    "website_b_url": "https://www.oujmedia.ae/terms-conditions/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "AI comparison failed: {\"error\":{\"code\":403,\"message\":\"Gemini API has not been used in project 11066858378 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/g"
+  }
+]

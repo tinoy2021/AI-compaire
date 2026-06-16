@@ -1,0 +1,590 @@
+[
+  {
+    "ai_provider": "gemini",
+    "match_key": "/",
+    "website_a_url": "https://www.hotpackglobal.com/",
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/",
+    "screenshot_a_path": "D:\\AI compaire\\screenshots\\site-a\\2026-05-21T10-49-41-216Z\\matched___2026-05-21T10-49-41-216Z_e3cc33a3c9.png",
+    "screenshot_b_path": "D:\\AI compaire\\screenshots\\site-b\\2026-05-21T10-49-41-216Z\\matched___2026-05-21T10-49-41-216Z_e3cc33a3c9.png",
+    "screenshot_a_rel": "../screenshots/site-a/2026-05-21T10-49-41-216Z/matched___2026-05-21T10-49-41-216Z_e3cc33a3c9.png",
+    "screenshot_b_rel": "../screenshots/site-b/2026-05-21T10-49-41-216Z/matched___2026-05-21T10-49-41-216Z_e3cc33a3c9.png",
+    "verdict": "changes_visible",
+    "human_visible_changes": true,
+    "confidence": 1,
+    "summary": "The second website is a severely broken and incomplete version of the first, missing the vast majority of its content, layout, and styling.",
+    "diff_highlight_path": "D:\\AI compaire\\reports\\diffs-2026-05-21T10-49-41-216Z\\diff___2026-05-21T10-49-41-216Z_d99fdeeab4-highlight.png",
+    "diff_highlight_rel": "diffs-2026-05-21T10-49-41-216Z/diff___2026-05-21T10-49-41-216Z_d99fdeeab4-highlight.png",
+    "diff_map_rel": "diffs-2026-05-21T10-49-41-216Z/diff___2026-05-21T10-49-41-216Z_d99fdeeab4-map.png",
+    "diff_pixel_count": 3069933
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ar",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/ar",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/uae",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/uae",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/about-us",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/about-us",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/leadership",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/leadership",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/life-at-hotpack",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/life-at-hotpack",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/manufacturing",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/manufacturing",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/our-capability",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/our-capability",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/customization",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/customization",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/factories",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/factories",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/sustainability",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/sustainability",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/our-commitment",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/our-commitment",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/innovation",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/innovation",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/ethics-and-compliance",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/ethics-and-compliance",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/sustainability-report",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/sustainability-report",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/sustainability-resources",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/sustainability-resources",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/resources",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/resources",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/media",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/media",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/news",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/news",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/blogs",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/blogs",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/accolades",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/accolades",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/events",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/events",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/faq",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/faq",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/catalogue",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/catalogue",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/get-in-touch",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/get-in-touch",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/contact-us",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/contact-us",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/locate-us",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/locate-us",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/careers",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/careers",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/paper-products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/paper-products/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/tissue-products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/tissue-products",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/molded",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/molded",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/wooden-products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/wooden-products",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/aluminium-products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/aluminium-products",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/plastic-products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/plastic-products",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/hygiene-and-Protection",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/hygiene-and-Protection",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/flexible-products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/flexible-products",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/foam-products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/foam-products",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/corrugated-cartons",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/corrugated-cartons",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/miscellaneous-products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/miscellaneous-products",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/food-service",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/food-service",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/Cafe",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/Cafe",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/retail",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/retail/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/hotels",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/hotels/",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/sectors",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/sectors",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/bakeries",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/bakeries",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/healthcare",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/healthcare",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/travel",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/travel",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/industrial",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/industrial",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/Ship",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/Ship",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/cloud-kitchen",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/cloud-kitchen",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/e-commerce",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/e-commerce",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/facility-management",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/facility-management",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/test-link-1",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/test-link-1",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/test-link-2",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/test-link-2",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/[object%20Object]",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/[object%20Object]",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/commitment",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/commitment",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/products",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/products",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  },
+  {
+    "ai_provider": "gemini",
+    "match_key": "/contact",
+    "website_a_url": null,
+    "website_b_url": "https://chipper-fenglisu-cc19b7.netlify.app/contact",
+    "verdict": "only_in_website_b",
+    "human_visible_changes": "",
+    "confidence": "",
+    "summary": "No page on website A with the same path and query; screenshot saved for B only. Not a two-image AI comparison."
+  }
+]

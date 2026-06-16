@@ -1,0 +1,65 @@
+[
+  {
+    "match_key": "/",
+    "website_a_url": "https://ouj-media.pages.dev/",
+    "website_b_url": "https://www.oujmedia.ae/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "Gemini comparison failed: {\"error\":{\"code\":404,\"message\":\"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
+  },
+  {
+    "match_key": "/services",
+    "website_a_url": "https://ouj-media.pages.dev/services/#analytics-reporting",
+    "website_b_url": "https://www.oujmedia.ae/services/#analytics-reporting",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "Gemini comparison failed: {\"error\":{\"code\":404,\"message\":\"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
+  },
+  {
+    "match_key": "/pricing",
+    "website_a_url": "https://ouj-media.pages.dev/pricing/",
+    "website_b_url": "https://www.oujmedia.ae/pricing/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "Gemini comparison failed: {\"error\":{\"code\":404,\"message\":\"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
+  },
+  {
+    "match_key": "/about",
+    "website_a_url": "https://ouj-media.pages.dev/about/",
+    "website_b_url": "https://www.oujmedia.ae/about/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "Gemini comparison failed: {\"error\":{\"code\":404,\"message\":\"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
+  },
+  {
+    "match_key": "/contact",
+    "website_a_url": "https://ouj-media.pages.dev/contact/",
+    "website_b_url": "https://www.oujmedia.ae/contact/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "Gemini comparison failed: {\"error\":{\"code\":404,\"message\":\"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
+  },
+  {
+    "match_key": "/terms-service",
+    "website_a_url": "https://ouj-media.pages.dev/terms-service/",
+    "website_b_url": "https://www.oujmedia.ae/terms-service/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "Gemini comparison failed: {\"error\":{\"code\":404,\"message\":\"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
+  },
+  {
+    "match_key": "/terms-conditions",
+    "website_a_url": "https://ouj-media.pages.dev/terms-conditions/",
+    "website_b_url": "https://www.oujmedia.ae/terms-conditions/",
+    "verdict": "unclear",
+    "human_visible_changes": true,
+    "confidence": 0,
+    "summary": "Gemini comparison failed: {\"error\":{\"code\":404,\"message\":\"models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
+  }
+]

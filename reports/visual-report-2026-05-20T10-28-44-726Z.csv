@@ -1,0 +1,3 @@
+ai_provider,match_key,website_a_url,website_b_url,verdict,human_visible_changes,confidence,summary
+"gemini","/","https://ouj-media.pages.dev/","https://oscarluxury.com/#home-browse-brands","unclear","true","0","AI comparison failed: {""error"":{""code"":404,""message"":""models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
+"gemini","/services","https://ouj-media.pages.dev/services/#analytics-reporting","https://oscarluxury.com/services/","unclear","true","0","AI comparison failed: {""error"":{""code"":404,""message"":""models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list o"
